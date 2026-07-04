@@ -60,4 +60,4 @@ Run the ChatClient class in multiple instances (in different terminal windows or
 
 This application demonstrates the use of Java sockets and multithreading to create a functional chat application with a server and multiple clients communicating in real-time. If you have any more questions or need further assistance, feel free to ask!
 
-OUTPUT : #1 (comment)
+
